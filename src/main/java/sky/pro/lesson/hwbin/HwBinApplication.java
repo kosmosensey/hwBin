@@ -6,8 +6,8 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 @SpringBootApplication
 public class HwBinApplication {
 
-	public static void main(String[] args) {
-		SpringApplication.run(HwBinApplication.class, args);
-	}
+    public static void main(String[] args) {
+        SpringApplication.run(HwBinApplication.class, args);
+    }
 
 }
